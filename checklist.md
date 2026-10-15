@@ -7,6 +7,8 @@ Related frameworks worth knowing:
 - **Kaiser Fung's "Trifecta Checkup"** ([junkcharts.typepad.com](https://junkcharts.typepad.com/junk_charts/trifecta-checkup/)) — evaluates whether the underlying question, the data, and the visual all tell the same story.
 - **Alberto Cairo, *How Charts Lie*** (2019) — the most thorough taxonomy of how charts mislead.
 - **Evergreen & Emery, "Data Visualization Checklist"** (2014/2018) — 24 criteria on formatting/clarity (Text, Arrangement, Color, Lines, Overall).
+- **Derek Sonderegger, *STA 141 – Exploratory Data Analysis and Visualization*** ([bookdown.org](https://bookdown.org/dereksonderegger/141/index.html)) — course notes aimed at inoculating readers against misleading data and graphs by teaching the follow-up questions to ask.
+- **Data Visualization Society, "Critique"** ([datavisualizationsociety.org](https://datavisualizationsociety.org/mentorship/critique/)) — the DVS #share-critique framework (goals, audience, project stage, feedback sought) plus links to example critiques.
 
 This checklist leans on the statistical/methodological end of that spectrum, since that's where the gaps in the frameworks above tend to be.
 
